@@ -1,0 +1,7 @@
+{
+  "model_name": "retail-sales-model",
+  "algorithm": "random_forest",
+  "training_data": "s3://mlops-data/train/",
+  "test_data": "s3://mlops-data/test/",
+  "target_column": "sales"
+}
