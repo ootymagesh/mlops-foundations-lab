@@ -4,6 +4,7 @@ def train_model():
     print("Validating training data...")
     print("Training model...")
     print("Evaluating model...")
+    print("Running ML workflow from Databricks...")
     print("Model training completed")
 
 
